@@ -1,4 +1,4 @@
-angular-requirejs-seed
+angular-material-requirejs-seed
 ======================
 
 # Installation
